@@ -1,0 +1,20 @@
+.tweet-list-wrapper {
+    position: absolute;
+    top: 200px;
+}
+
+.user-image img {
+    height:40px;
+    width: 45px;
+    border-radius: 20px;
+}
+
+.tweet-box {
+    border: 1px solid lightgray;
+    display: flex;
+    padding: 10px;
+}
+
+.tweet-content{
+    margin-left:30px;
+}
